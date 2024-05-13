@@ -32,8 +32,8 @@ End the program and close the output video window by pressing 'q'.
 
 ## PROGRAM:
 ``` Python
-### Developed By: JAGAN A
-### Register No: 212221230037
+### Developed By: Easwar J
+### Register No: 212221230024
 
 ## i) Write the frame as JPG file
 import cv2
@@ -114,7 +114,7 @@ cv2.destroyAllWindows()
 ## OUTPUT:
 
 ### i) Write the frame as JPG image
-<img width="500" alt="Screenshot 2024-05-09 at 9 40 28 AM" src="https://github.com/saijaganv1618/Image_Acqusition-_using_Web_Camera/assets/59290560/b63d5a13-2e17-4954-b85a-af03cf1e5a74">
+![image](https://github.com/EASWAR17/Image_Acqusition-_using_Web_Camera/assets/94154683/9ab0170f-c3ad-4c74-8dfb-f593019117e0)
 
 
 
@@ -124,18 +124,14 @@ cv2.destroyAllWindows()
 
 
 ### ii) Display the video
-<img width="502" alt="Screenshot 2024-05-09 at 9 40 36 AM" src="https://github.com/saijaganv1618/Image_Acqusition-_using_Web_Camera/assets/59290560/e794a2ce-6cf5-4b74-bdaf-cbb8c7574f12">
-
-
+![image](https://github.com/EASWAR17/Image_Acqusition-_using_Web_Camera/assets/94154683/3a99f98c-36fe-491f-a6ef-28543e43e594)
 
 </br>
 </br>
 
 
 ### iii) Display the video by resizing the window
-<img width="496" alt="Screenshot 2024-05-09 at 9 40 48 AM" src="https://github.com/saijaganv1618/Image_Acqusition-_using_Web_Camera/assets/59290560/c02f4810-ed4d-4e25-9d21-e71c182cfd2f">
-
-
+![image](https://github.com/EASWAR17/Image_Acqusition-_using_Web_Camera/assets/94154683/bddc22fd-6eb6-4bf2-8db6-b4fbf46516a6)
 
 
 </br>
@@ -144,8 +140,8 @@ cv2.destroyAllWindows()
 
 
 ### iv) Rotate and display the video
-<img width="499" alt="Screenshot 2024-05-09 at 9 40 56 AM" src="https://github.com/saijaganv1618/Image_Acqusition-_using_Web_Camera/assets/59290560/583361f0-e817-494b-a905-7a488f4629cf">
 
+![image](https://github.com/EASWAR17/Image_Acqusition-_using_Web_Camera/assets/94154683/9cda8fa3-0e84-40a0-96c7-c9b05c897161)
 
 
 
